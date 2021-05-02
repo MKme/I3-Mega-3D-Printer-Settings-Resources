@@ -5,5 +5,7 @@ This printer has been amazing and I like to share my profiles and settings to ma
 
 Cura settings currently based on Cura 2.6.2
 
+My 3D printing project videos: https://www.youtube.com/playlist?list=PLxyM2a_cfnzh4BQ6e20lYyFzN7XcakLek
+
 More videos and information at http://youtube.com/mkmeorg or http://www.mkme.org
 
