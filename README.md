@@ -23,7 +23,7 @@ More videos and information at http://youtube.com/mkmeorg or http://www.mkme.org
 
 # Fan Replacement
 
-Here is the full video:  https://youtu.be/Oi3rsJTNKZk
+Here is the full video upgrading the AnyCubic i3 Mega fans and linear bearings :  https://youtu.be/Oi3rsJTNKZk
 
 Parts: 
 
